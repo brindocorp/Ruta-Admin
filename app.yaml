@@ -14,3 +14,6 @@ env_variables:
   APP_LOG: errorlog
   APP_KEY: tH4xZp5VixUYAvKKkUG6kB1iZstYv0YLox5eR/Jp25A=
   STORAGE_DIR: /tmp
+  APP_NAME: Ruta
+  APP_DEBUG: true
+  APP_LOG_LEVEL: debug
